@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Entrevoisins</string>
+    <string name="tab_neighbour_title">My neighbours</string>
+    <string name="tab_favorites_title">Favorites</string>
+    <string name="activity_new_neighbour">New neighbour</string>
+    <string name="caroline">Caroline</string>
+    <string name="location">Saint pierre du mont à 5km</string>
+    <string name="st_pierre_du_mont_5klm">St pierre du mont à 5klm</string>
+    <string name="prenom">Prenom</string>
+    <string name="_33_6_10_20_30_40">+33 6 10 20 30 40</string>
+</resources>
