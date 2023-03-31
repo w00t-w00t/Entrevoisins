@@ -169,6 +169,8 @@ public class NeighboursListTest {
         onView(withId(R.id.container)) // container declared in Activity List Neighbour
             .perform(swipeLeft());
 
+        pressBack();
+
         // Then : Check if the number of items in Favorite list is same as the number neigbours we added.
         onView(withId(R.id.list_neighbours_favorite))
             .check(withItemCount(2));
